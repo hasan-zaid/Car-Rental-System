@@ -1,0 +1,4 @@
+CAR0,MERCEDES C63S,4.0 L Bi-Turbo,1300,available, , 
+CAR1,BMW X6,3.0 L 340hp,750,available, , 
+CAR2,HONDA CITY,1.0 L 110hp,150,available, , 
+CAR3,TOYOTA YARIS,1.2 L 100 hp,100,rented,18-12-2022
